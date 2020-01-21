@@ -11,7 +11,7 @@ const Navbar = () => {
       </h1>
       <ul>
         <li>
-          <a href='!#'>Developers</a>
+          <a href='/!#'>Developers</a>
         </li>
         <li>
           <Link to='/register'>Register</Link>
