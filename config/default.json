@@ -1,6 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://pragna123:pragna123@devconnector-yfkc0.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken",
-  "githubClientId": "6395b1293cedd8482b25",
-  "githubSecret": "cbdcdddb266965780cb2cec4f427effe0a2da7f8"
-}
